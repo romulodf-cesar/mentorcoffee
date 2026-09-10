@@ -43,3 +43,15 @@ Pergunta → Embedding → Busca semântica → Contexto + LLM → Resposta
 ## Observação
 
 A qualidade das respostas depende da qualidade dos documentos, da divisão dos trechos, do modelo de embeddings e da configuração do mecanismo de recuperação.
+
+## Dicas para Push
+
+- git init
+- git status
+- git add .
+- git commit -m "mensagem"
+- git status
+- crie um repositório no github
+- git remote
+- git remote add origin << seu endereço  >>
+- git push
