@@ -11,7 +11,8 @@ Este projeto demonstra a construção de uma aplicação de **RAG (Retrieval-Aug
 
 ## Tecnologias utilizadas
 
-- **Python:** linguagem principal da aplicação.
+- **llama-index:** ! pip install -q llama-index==0.12.17 gradio==5.16.0
+- **Python:** python 13.3.0 - linguagem principal da aplicação.
 - **LangChain:** integração entre documentos, embeddings, recuperação e modelos de linguagem.
 - **Modelos de linguagem (LLM):** geração das respostas com base no contexto recuperado.
 - **Embeddings:** representação semântica dos documentos e das perguntas.
